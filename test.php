@@ -1,7 +1,7 @@
 <?php
 class ABC {
 	public function display() {
-		echo "ABC";
+		echo "ABCD";
 	}
 }
 
